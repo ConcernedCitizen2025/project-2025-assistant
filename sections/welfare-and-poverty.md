@@ -1,0 +1,1 @@
+---%0D%0Alayout: default%0D%0Atitle: Welfare and Poverty%0D%0A---%0D%0A%0D%0A# Welfare and Poverty%0D%0A%0D%0A[Paste detailed content from the Word document here]%0D%0A 

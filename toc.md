@@ -1,10 +1,1 @@
----
-layout: default
-title: Table of Contents
----
-
-# Table of Contents
-
-- [Economic Policy](economic-policy.html)
-- [Government Size and Efficiency](government-efficiency.html)
-- [Social Issues](social-issues.html)
+---%0D%0Alayout: default%0D%0Atitle: Table of Contents%0D%0A---%0D%0A%0D%0A# Table of Contents%0D%0A%0D%0A- [Economic Policy](sections/economic-policy.md)%0D%0A- [Government Size and Efficiency](sections/government-size-and-efficiency.md)%0D%0A- [Social Issues](sections/social-issues.md)%0D%0A- [National Defense and Foreign Policy](sections/national-defense-and-foreign-policy.md)%0D%0A- [Environment and Energy](sections/environment-and-energy.md)%0D%0A- [Legal and Judicial Reform](sections/legal-and-judicial-reform.md)%0D%0A- [Education Policy](sections/education-policy.md)%0D%0A- [Health Care](sections/health-care.md)%0D%0A- [Welfare and Poverty](sections/welfare-and-poverty.md)%0D%0A- [Housing and Urban Development](sections/housing-and-urban-development.md)%0D%0A- [Transportation Policy](sections/transportation-policy.md)%0D%0A- [Science Technology and Space](sections/science-technology-and-space.md)%0D%0A- [Commerce and Trade](sections/commerce-and-trade.md)%0D%0A- [Veterans Affairs](sections/veterans-affairs.md)%0D%0A 
