@@ -1,0 +1,1 @@
+---%0D%0Alayout: default%0D%0Atitle: Home%0D%0A---%0D%0A%0D%0A# Welcome to the Project 2025 Assistant%0D%0A%0D%0AExplore detailed analyses and summaries of "Mandate for Leadership: The Conservative Promise". Understand the potential impacts of the proposed policies.%0D%0A%0D%0A[Table of Contents](toc.md)%0D%0A[FAQs](faq.md)%0D%0A 

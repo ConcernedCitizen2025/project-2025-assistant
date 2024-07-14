@@ -1,0 +1,1 @@
+---%0D%0Alayout: default%0D%0Atitle: FAQs%0D%0A---%0D%0A%0D%0A# Frequently Asked Questions%0D%0A%0D%0A- [How will this affect Social Security, Medicaid, or Medicare?](faq-social-security.md)%0D%0A- [How will these changes impact the LGBTQ+ community?](faq-lgbtq.md)%0D%0A 

@@ -1,0 +1,1 @@
+---%0D%0Alayout: default%0D%0Atitle: Social Issues%0D%0A---%0D%0A%0D%0A# Social Issues%0D%0A%0D%0ADetailed information about social issues.%0D%0A 

@@ -1,0 +1,1 @@
+---%0D%0Alayout: default%0D%0Atitle: Table of Contents%0D%0A---%0D%0A%0D%0A# Table of Contents%0D%0A%0D%0A- [Economic Policy](economic-policy.md)%0D%0A- [Government Size and Efficiency](government-efficiency.md)%0D%0A- [Social Issues](social-issues.md)%0D%0A 
