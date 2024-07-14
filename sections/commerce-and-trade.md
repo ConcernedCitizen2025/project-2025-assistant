@@ -1,1 +1,6 @@
----%0D%0Alayout: default%0D%0Atitle: Commerce and Trade%0D%0A---%0D%0A%0D%0A# Commerce and Trade%0D%0A%0D%0A[Paste detailed content from the Word document here]%0D%0A 
+---
+layout: default
+title: Commerce and Trade
+---
+
+# Commerce and Trade

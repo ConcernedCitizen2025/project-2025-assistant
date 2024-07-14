@@ -1,1 +1,6 @@
----%0D%0Alayout: default%0D%0Atitle: Economic Policy%0D%0A---%0D%0A%0D%0A# Economic Policy%0D%0A%0D%0A[Paste detailed content from the Word document here]%0D%0A 
+---
+layout: default
+title: Economic Policy
+---
+
+# Economic Policy

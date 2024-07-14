@@ -1,1 +1,6 @@
----%0D%0Alayout: default%0D%0Atitle: Government Size and Efficiency%0D%0A---%0D%0A%0D%0A# Government Size and Efficiency%0D%0A%0D%0A[Paste detailed content from the Word document here]%0D%0A 
+---
+layout: default
+title: Government Size and Efficiency
+---
+
+# Government Size and Efficiency

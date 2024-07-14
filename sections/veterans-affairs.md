@@ -1,1 +1,6 @@
----%0D%0Alayout: default%0D%0Atitle: Veterans Affairs%0D%0A---%0D%0A%0D%0A# Veterans Affairs%0D%0A%0D%0A[Paste detailed content from the Word document here]%0D%0A 
+---
+layout: default
+title: Veterans Affairs
+---
+
+# Veterans Affairs

@@ -1,1 +1,6 @@
----%0D%0Alayout: default%0D%0Atitle: Education Policy%0D%0A---%0D%0A%0D%0A# Education Policy%0D%0A%0D%0A[Paste detailed content from the Word document here]%0D%0A 
+---
+layout: default
+title: Education Policy
+---
+
+# Education Policy

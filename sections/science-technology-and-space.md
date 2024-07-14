@@ -1,1 +1,6 @@
----%0D%0Alayout: default%0D%0Atitle: Science Technology and Space%0D%0A---%0D%0A%0D%0A# Science Technology and Space%0D%0A%0D%0A[Paste detailed content from the Word document here]%0D%0A 
+---
+layout: default
+title: Science Technology and Space
+---
+
+# Science Technology and Space
