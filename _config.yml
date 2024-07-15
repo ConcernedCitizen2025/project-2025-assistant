@@ -1,8 +1,8 @@
 title: Project 2025 Assistant
 email: ConcernedCitizen2025AD@gmail.com
 description: "This website provides detailed information and analysis on Project 2025."
-baseurl: "/project-2025-assistant" # the subpath of your site
-url: "https://concernedcitizen2025.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site
+url: "https://project2025assistant.org" # the base hostname & protocol for your site
 theme: minima
 
 markdown: kramdown
