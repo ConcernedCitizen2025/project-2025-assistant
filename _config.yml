@@ -1,9 +1,9 @@
-title: Project 2025 Assistant
-description: Explore detailed analyses and summaries of 'Mandate for Leadership: The Conservative Promise'.
+title: "Project 2025 Assistant"
+description: "Explore detailed analyses and summaries of 'Mandate for Leadership: The Conservative Promise'."
 url: "https://project2025assistant.org"
-author: Benjamin Parsons
+author: "Benjamin Parsons"
 defaults:
   - scope:
       path: ""
     values:
-      layout: under-construction
+      layout: "under-construction"
