@@ -1,12 +1,9 @@
 title: Project 2025 Assistant
-email: ConcernedCitizen2025AD@gmail.com
-description: "This website provides detailed information and analysis on Project 2025."
-baseurl: "" # the subpath of your site
-url: "https://project2025assistant.org" # the base hostname & protocol for your site
-theme: minima
-
-markdown: kramdown
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+description: Explore detailed analyses and summaries of 'Mandate for Leadership: The Conservative Promise'.
+url: "https://project2025assistant.org"
+author: Benjamin Parsons
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: under-construction
